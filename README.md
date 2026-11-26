@@ -78,7 +78,7 @@ Requer **Python 3.11+**.
 ```bash
 # 1. Clone o repositório
 git clone <URL-DO-REPOSITORIO>
-cd Dengue_dashboard
+cd v11d.4
 
 # 2. (Recomendado) crie um ambiente virtual
 python -m venv .venv
