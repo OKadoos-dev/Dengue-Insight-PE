@@ -152,13 +152,10 @@ As análises são **exploratórias**: a causalidade de Granger mede precedência
 
 ## Equipe
 
-Projeto PIBIC Jr — IFSertãoPE, Campus Petrolina (Curso Técnico em Informática). Estudantes bolsistas, professores colaboradores e orientação docente. *(Preencher os nomes e o contato do autor correspondente conforme a submissão.)*
+Projeto PIBIC Jr — IFSertãoPE, Campus Petrolina (Curso Técnico em Informática). Estudantes bolsistas, professores colaboradores e orientação docente. 
+Orientador: Ednaldo Gomes da Silva (Campus Petrolina)
+Bolsista: Carlos Eduardo Lopes Felix
+Voluntaria: Maria Fernanda Silva Santos
 
-## Como citar
 
-*(Preencher após a publicação.)*
-> [AUTORES]. Análise exploratória da relação entre clima e dengue em Petrolina-PE. [Evento/Periódico], [ano]. Disponível em: <URL-DO-REPOSITORIO>.
 
-## Licença
-
-*(Sugestão: adicionar uma licença de código aberto antes de tornar o repositório público — por exemplo, MIT para o código. Escolha e inclua um arquivo `LICENSE`.)*
