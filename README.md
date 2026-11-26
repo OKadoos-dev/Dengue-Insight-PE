@@ -1,4 +1,4 @@
-# Dashboard Dengue × Clima — Petrolina-PE (v11.3)
+# Dashboard Dengue × Clima — Petrolina-PE (v11.4)
 
 **Análise exploratória de dados (AED) da relação entre variáveis climáticas e a incidência de dengue em Petrolina-PE (2010–2025), com dashboard interativo e materiais didáticos.**
 Projeto de Iniciação Científica Júnior (PIBIC Jr) — IFSertãoPE, Campus Petrolina · Curso Técnico em Informática.
